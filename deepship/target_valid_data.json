@@ -1,0 +1,4336 @@
+{
+  "data": [
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/114551_slice8_t240.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/114551_slice10_t283.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/114551_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/114551_slice7_t210.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/114551_slice6_t180.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/114551_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/114551_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/114551_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/114551_slice9_t270.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/114551_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/114551_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/080357_slice8_t240.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/080357_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/080357_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/080357_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/080357_slice6_t180.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/080357_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/080357_slice10_t277.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/080357_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/080357_slice9_t270.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/080357_slice7_t210.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/080357_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/7_slice14_t420.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/7_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/7_slice17_t504.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/7_slice7_t210.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/7_slice12_t360.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/7_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/7_slice11_t330.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/7_slice9_t270.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/7_slice15_t450.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/7_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/7_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/7_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/7_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/7_slice10_t300.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/7_slice13_t390.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/7_slice6_t180.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/7_slice16_t480.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/7_slice8_t240.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/042800_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/042800_slice8_t230.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/042800_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/042800_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/042800_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/042800_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/042800_slice6_t180.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/042800_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/042800_slice7_t210.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/100039_slice6_t180.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/100039_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/100039_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/100039_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/100039_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/100039_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/100039_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/100039_slice7_t199.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/20_slice12_t360.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/20_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/20_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/20_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/20_slice9_t270.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/20_slice8_t240.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/20_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/20_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/20_slice10_t300.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/20_slice6_t180.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/20_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/20_slice13_t361.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/20_slice11_t330.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/20_slice7_t210.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/214529_slice6_t177.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/214529_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/214529_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/214529_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/214529_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/214529_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/214529_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/002044_slice10_t300.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/002044_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/002044_slice11_t327.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/002044_slice6_t180.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/002044_slice7_t210.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/002044_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/002044_slice8_t240.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/002044_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/002044_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/002044_slice9_t270.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/002044_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/002044_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/62_slice6_t168.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/62_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/62_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/62_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/62_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/62_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/62_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/124454_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/124454_slice8_t240.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/124454_slice14_t409.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/124454_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/124454_slice13_t390.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/124454_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/124454_slice12_t360.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/124454_slice11_t330.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/124454_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/124454_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/124454_slice6_t180.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/124454_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/124454_slice10_t300.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/124454_slice7_t210.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/124454_slice9_t270.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/214753_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/214753_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/214753_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/214753_slice8_t240.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/214753_slice7_t210.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/214753_slice9_t270.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/214753_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/214753_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/214753_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/214753_slice10_t294.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/214753_slice6_t180.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/123015_slice6_t180.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/123015_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/123015_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/123015_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/123015_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/123015_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/123015_slice7_t210.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/123015_slice12_t333.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/123015_slice11_t330.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/123015_slice8_t240.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/123015_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/123015_slice10_t300.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/123015_slice9_t270.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/3_slice6_t180.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/3_slice9_t267.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/3_slice8_t240.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/3_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/3_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/3_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/3_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/3_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/3_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/3_slice7_t210.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/013045_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/013045_slice9_t270.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/013045_slice8_t240.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/013045_slice15_t433.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/013045_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/013045_slice13_t390.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/013045_slice14_t420.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/013045_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/013045_slice6_t180.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/013045_slice11_t330.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/013045_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/013045_slice10_t300.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/013045_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/013045_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/013045_slice12_t360.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/013045_slice7_t210.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/1_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/1_slice10_t300.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/1_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/1_slice14_t420.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/1_slice13_t390.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/1_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/1_slice15_t427.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/1_slice8_t240.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/1_slice11_t330.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/1_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/1_slice7_t210.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/1_slice12_t360.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/1_slice9_t270.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/1_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/1_slice6_t180.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/1_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/004911_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/004911_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/004911_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/004911_slice10_t300.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/004911_slice12_t360.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/004911_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/004911_slice9_t270.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/004911_slice16_t468.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/004911_slice11_t330.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/004911_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/004911_slice13_t390.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/004911_slice7_t210.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/004911_slice6_t180.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/004911_slice15_t450.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/004911_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/004911_slice8_t240.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/004911_slice14_t420.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/010450_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/010450_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/010450_slice7_t210.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/010450_slice6_t180.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/010450_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/010450_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/010450_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/010450_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/141802_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/141802_slice9_t270.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/141802_slice11_t330.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/141802_slice10_t300.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/141802_slice6_t180.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/141802_slice8_t240.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/141802_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/141802_slice18_t529.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/141802_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/141802_slice17_t510.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/141802_slice13_t390.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/141802_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/141802_slice16_t480.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/141802_slice7_t210.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/141802_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/141802_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/141802_slice12_t360.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/141802_slice15_t450.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/141802_slice14_t420.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/023314_slice7_t210.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/023314_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/023314_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/023314_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/023314_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/023314_slice8_t221.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/023314_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/023314_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/023314_slice6_t180.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/10_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/10_slice7_t210.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/10_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/10_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/10_slice8_t240.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/10_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/10_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/10_slice9_t261.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/10_slice6_t180.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/10_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/231720_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/231720_slice14_t410.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/231720_slice12_t360.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/231720_slice6_t180.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/231720_slice10_t300.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/231720_slice9_t270.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/231720_slice11_t330.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/231720_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/231720_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/231720_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/231720_slice8_t240.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/231720_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/231720_slice7_t210.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/231720_slice13_t390.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/231720_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/075414_slice3_t90.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/075414_slice7_t210.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/075414_slice2_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/075414_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/075414_slice6_t180.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/075414_slice5_t150.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/075414_slice8_t237.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/075414_slice4_t120.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Cargo/075414_slice1_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/174012_slice8_t240.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/174012_slice12_t334.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/174012_slice5_t150.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/174012_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/174012_slice11_t330.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/174012_slice9_t270.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/174012_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/174012_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/174012_slice4_t120.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/174012_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/174012_slice6_t180.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/174012_slice10_t300.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/174012_slice7_t210.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/043503_slice4_t120.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/043503_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/043503_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/043503_slice7_t210.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/043503_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/043503_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/043503_slice5_t150.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/043503_slice6_t180.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/043503_slice9_t253.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/043503_slice8_t240.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice23_t690.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice4_t120.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice16_t480.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice10_t300.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice31_t930.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice14_t420.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice20_t600.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice6_t180.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice5_t150.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice11_t330.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice22_t660.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice13_t390.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice7_t210.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice27_t810.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice24_t720.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice28_t840.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice29_t870.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice32_t960.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice33_t990.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice26_t780.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice12_t360.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice8_t240.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice19_t570.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice18_t540.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice21_t630.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice30_t900.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice9_t270.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice25_t750.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice17_t510.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/032743_slice15_t450.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice11_t330.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice14_t420.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice16_t480.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice9_t270.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice6_t180.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice23_t690.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice21_t630.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice10_t300.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice20_t600.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice4_t120.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice15_t450.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice19_t570.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice22_t660.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice7_t210.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice8_t240.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice18_t540.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice13_t390.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice17_t510.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice12_t360.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095127_slice5_t150.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/195844_slice11_t330.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/195844_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/195844_slice12_t360.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/195844_slice14_t420.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/195844_slice18_t539.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/195844_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/195844_slice6_t180.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/195844_slice16_t480.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/195844_slice8_t240.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/195844_slice15_t450.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/195844_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/195844_slice17_t510.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/195844_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/195844_slice7_t210.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/195844_slice4_t120.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/195844_slice9_t270.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/195844_slice13_t390.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/195844_slice10_t300.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/195844_slice5_t150.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/035748_slice5_t150.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/035748_slice7_t210.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/035748_slice6_t180.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/035748_slice4_t120.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/035748_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/035748_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/035748_slice9_t270.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/035748_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/035748_slice10_t289.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/035748_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/035748_slice8_t240.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/035234_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/035234_slice5_t150.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/035234_slice4_t120.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/035234_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/035234_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/035234_slice6_t180.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/035234_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/035234_slice7_t206.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/224944_slice1_t20.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/224944_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/104632_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/104632_slice4_t120.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/104632_slice10_t300.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/104632_slice16_t480.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/104632_slice7_t210.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/104632_slice5_t150.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/104632_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/104632_slice13_t390.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/104632_slice12_t360.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/104632_slice9_t270.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/104632_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/104632_slice6_t180.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/104632_slice11_t330.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/104632_slice14_t420.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/104632_slice8_t240.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/104632_slice15_t450.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/104632_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/104632_slice17_t495.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/012316_slice1_t14.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/012316_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/094820_slice8_t240.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/094820_slice7_t210.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/094820_slice5_t150.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/094820_slice9_t270.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/094820_slice11_t319.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/094820_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/094820_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/094820_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/094820_slice10_t300.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/094820_slice6_t180.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/094820_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/094820_slice4_t120.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/174851_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/174851_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/174851_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/174851_slice3_t88.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/231129_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/231129_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/231129_slice3_t88.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/231129_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/102113_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/102113_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/102113_slice3_t79.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/102113_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/37_slice4_t120.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/37_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/37_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/37_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/37_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/37_slice5_t132.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/29_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/29_slice1_t6.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/012058_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/012058_slice1_t20.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/103759_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/103759_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/103759_slice2_t33.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/175151_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/175151_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/175151_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/175151_slice4_t113.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/175151_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/025741_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/025741_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/025741_slice7_t210.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/025741_slice5_t150.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/025741_slice8_t235.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/025741_slice6_t180.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/025741_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/025741_slice4_t120.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/025741_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/151655_slice5_t150.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/151655_slice6_t180.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/151655_slice9_t270.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/151655_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/151655_slice8_t240.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/151655_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/151655_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/151655_slice10_t300.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/151655_slice4_t120.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/151655_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/151655_slice7_t210.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095628_slice8_t240.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095628_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095628_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095628_slice11_t330.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095628_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095628_slice9_t270.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095628_slice5_t150.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095628_slice7_t210.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095628_slice4_t120.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095628_slice6_t180.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095628_slice10_t300.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/095628_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/110548_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/110548_slice8_t223.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/110548_slice4_t120.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/110548_slice7_t210.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/110548_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/110548_slice6_t180.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/110548_slice5_t150.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/110548_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/110548_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/152700_slice11_t330.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/152700_slice14_t420.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/152700_slice9_t270.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/152700_slice8_t240.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/152700_slice6_t180.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/152700_slice7_t210.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/152700_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/152700_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/152700_slice4_t120.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/152700_slice5_t150.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/152700_slice10_t300.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/152700_slice12_t360.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/152700_slice13_t390.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/152700_slice15_t446.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/152700_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/152700_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/114757_slice1_t9.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/114757_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201024_slice18_t514.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201024_slice13_t390.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201024_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201024_slice6_t180.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201024_slice7_t210.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201024_slice11_t330.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201024_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201024_slice10_t300.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201024_slice15_t450.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201024_slice14_t420.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201024_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201024_slice9_t270.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201024_slice5_t150.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201024_slice12_t360.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201024_slice16_t480.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201024_slice8_t240.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201024_slice17_t510.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201024_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201024_slice4_t120.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153434_slice12_t334.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153434_slice7_t210.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153434_slice4_t120.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153434_slice8_t240.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153434_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153434_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153434_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153434_slice10_t300.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153434_slice9_t270.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153434_slice11_t330.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153434_slice6_t180.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153434_slice5_t150.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153434_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201949_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201949_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201949_slice5_t146.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201949_slice4_t120.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201949_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/201949_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153439_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153439_slice7_t191.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153439_slice4_t120.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153439_slice5_t150.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153439_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153439_slice6_t180.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153439_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/153439_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/013614_slice1_t26.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/013614_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/112008_slice8_t240.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/112008_slice2_t60.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/112008_slice11_t330.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/112008_slice9_t270.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/112008_slice7_t210.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/112008_slice10_t300.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/112008_slice3_t90.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/112008_slice5_t150.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/112008_slice4_t120.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/112008_slice1_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/112008_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Passengership/112008_slice6_t180.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/5_slice1_t17.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/5_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/190037_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/190037_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/190037_slice7_t208.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/190037_slice3_t90.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/190037_slice4_t120.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/190037_slice6_t180.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/190037_slice5_t150.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/190037_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/040238_slice1_t13.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/040238_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/195035_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/195035_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/195035_slice4_t120.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/195035_slice7_t210.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/195035_slice3_t90.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/195035_slice8_t240.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/195035_slice5_t150.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/195035_slice9_t245.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/195035_slice6_t180.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/195035_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/031557_slice5_t150.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/031557_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/031557_slice4_t120.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/031557_slice7_t209.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/031557_slice6_t180.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/031557_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/031557_slice3_t90.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/031557_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/193519_slice3_t90.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/193519_slice5_t150.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/193519_slice7_t210.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/193519_slice8_t221.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/193519_slice4_t120.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/193519_slice6_t180.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/193519_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/193519_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/193519_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/013354_slice13_t390.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/013354_slice11_t330.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/013354_slice10_t300.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/013354_slice16_t472.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/013354_slice4_t120.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/013354_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/013354_slice7_t210.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/013354_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/013354_slice12_t360.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/013354_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/013354_slice3_t90.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/013354_slice5_t150.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/013354_slice8_t240.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/013354_slice9_t270.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/013354_slice6_t180.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/013354_slice15_t450.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/013354_slice14_t420.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/8_slice1_t14.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/8_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/32_slice1_t8.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/32_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/004704_slice9_t270.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/004704_slice12_t360.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/004704_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/004704_slice7_t210.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/004704_slice14_t412.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/004704_slice13_t390.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/004704_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/004704_slice4_t120.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/004704_slice10_t300.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/004704_slice3_t90.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/004704_slice8_t240.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/004704_slice11_t330.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/004704_slice6_t180.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/004704_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/004704_slice5_t150.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/202445_slice3_t90.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/202445_slice6_t174.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/202445_slice5_t150.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/202445_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/202445_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/202445_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/202445_slice4_t120.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/214849_slice1_t18.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/214849_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/29_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/29_slice3_t79.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/29_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/29_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/112445_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/112445_slice1_t17.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/131726_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/131726_slice3_t90.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/131726_slice4_t101.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/131726_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/131726_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/060850_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/060850_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/060850_slice10_t286.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/060850_slice3_t90.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/060850_slice6_t180.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/060850_slice5_t150.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/060850_slice7_t210.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/060850_slice4_t120.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/060850_slice9_t270.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/060850_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/060850_slice8_t240.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/143323_slice7_t210.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/143323_slice12_t360.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/143323_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/143323_slice11_t330.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/143323_slice13_t390.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/143323_slice6_t180.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/143323_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/143323_slice9_t270.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/143323_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/143323_slice3_t90.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/143323_slice10_t300.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/143323_slice14_t420.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/143323_slice8_t240.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/143323_slice15_t430.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/143323_slice4_t120.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/143323_slice5_t150.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/191933_slice12_t360.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/191933_slice11_t330.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/191933_slice14_t420.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/191933_slice9_t270.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/191933_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/191933_slice13_t390.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/191933_slice4_t120.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/191933_slice3_t90.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/191933_slice18_t528.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/191933_slice10_t300.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/191933_slice7_t210.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/191933_slice8_t240.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/191933_slice6_t180.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/191933_slice17_t510.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/191933_slice16_t480.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/191933_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/191933_slice5_t150.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/191933_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/191933_slice15_t450.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/225427_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/225427_slice1_t20.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/42_slice2_t40.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/42_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/42_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/234244_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/234244_slice1_t12.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/171238_slice8_t240.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/171238_slice7_t210.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/171238_slice12_t341.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/171238_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/171238_slice11_t330.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/171238_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/171238_slice10_t300.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/171238_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/171238_slice9_t270.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/171238_slice6_t180.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/171238_slice4_t120.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/171238_slice5_t150.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/171238_slice3_t90.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/033811_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/033811_slice3_t90.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/033811_slice7_t205.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/033811_slice4_t120.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/033811_slice5_t150.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/033811_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/033811_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/033811_slice6_t180.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/032309_slice10_t300.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/032309_slice9_t270.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/032309_slice11_t321.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/032309_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/032309_slice8_t240.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/032309_slice4_t120.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/032309_slice3_t90.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/032309_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/032309_slice6_t180.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/032309_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/032309_slice5_t150.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/032309_slice7_t210.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/232020_slice5_t139.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/232020_slice3_t90.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/232020_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/232020_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/232020_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/232020_slice4_t120.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/052014_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/052014_slice2_t49.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/052014_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/054907_slice1_t19.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/054907_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/022836_slice2_t32.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/022836_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/022836_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/222708_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/222708_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/222708_slice3_t71.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/222708_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/062026_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/062026_slice10_t286.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/062026_slice8_t240.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/062026_slice5_t150.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/062026_slice3_t90.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/062026_slice6_t180.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/062026_slice9_t270.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/062026_slice7_t210.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/062026_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/062026_slice4_t120.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/062026_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/232910_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/232910_slice4_t120.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/232910_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/232910_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/232910_slice3_t90.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/224627_slice2_t35.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/224627_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/224627_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/122139_slice4_t110.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/122139_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/122139_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/122139_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/122139_slice3_t90.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/053342_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/053342_slice2_t57.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/053342_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/160715_slice2_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/160715_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/160715_slice1_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/160715_slice3_t90.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/160715_slice6_t180.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/160715_slice8_t240.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/160715_slice5_t150.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/160715_slice4_t120.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/160715_slice7_t210.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/160715_slice9_t270.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tanker/160715_slice10_t287.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice21_t630.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice15_t450.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice11_t330.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice12_t360.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice9_t270.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice20_t600.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice25_t750.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice5_t150.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice26_t780.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice14_t420.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice27_t810.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice3_t90.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice13_t390.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice23_t690.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice10_t300.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice24_t720.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice18_t540.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice6_t180.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice8_t240.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice4_t120.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice19_t570.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice1_t30.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice28_t840.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice0_t0.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice17_t510.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice29_t859.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice7_t210.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice2_t60.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice16_t480.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/234607_slice22_t660.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice0_t0.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice6_t180.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice19_t570.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice16_t480.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice1_t30.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice10_t300.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice11_t330.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice14_t420.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice3_t90.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice2_t60.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice18_t540.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice12_t360.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice15_t450.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice9_t270.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice13_t390.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice8_t240.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice4_t120.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice5_t150.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice17_t510.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice21_t623.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice20_t600.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/141340_slice7_t210.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice18_t540.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice19_t570.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice7_t210.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice14_t420.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice15_t450.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice5_t150.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice2_t60.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice1_t30.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice0_t0.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice13_t390.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice12_t360.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice10_t300.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice16_t480.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice20_t572.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice11_t330.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice6_t180.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice8_t240.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice9_t270.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice3_t90.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice4_t120.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/072235_slice17_t510.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/49_slice3_t90.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/49_slice5_t150.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/49_slice6_t160.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/49_slice4_t120.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/49_slice1_t30.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/49_slice0_t0.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/49_slice2_t60.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/123228_slice11_t330.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/123228_slice14_t420.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/123228_slice6_t180.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/123228_slice9_t270.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/123228_slice0_t0.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/123228_slice15_t450.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/123228_slice8_t240.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/123228_slice4_t120.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/123228_slice7_t210.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/123228_slice16_t480.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/123228_slice1_t30.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/123228_slice5_t150.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/123228_slice10_t300.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/123228_slice2_t60.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/123228_slice13_t390.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/123228_slice17_t501.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/123228_slice12_t360.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/123228_slice3_t90.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice19_t570.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice18_t540.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice7_t210.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice0_t0.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice8_t240.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice6_t180.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice12_t360.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice9_t270.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice22_t632.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice4_t120.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice5_t150.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice13_t390.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice3_t90.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice2_t60.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice10_t300.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice20_t600.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice21_t630.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice1_t30.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice17_t510.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice16_t480.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice11_t330.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice14_t420.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/190230_slice15_t450.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/043830_slice6_t180.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/043830_slice4_t120.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/043830_slice1_t30.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/043830_slice11_t330.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/043830_slice10_t300.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/043830_slice5_t150.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/043830_slice0_t0.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/043830_slice3_t90.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/043830_slice9_t270.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/043830_slice12_t360.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/043830_slice8_t240.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/043830_slice13_t387.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/043830_slice7_t210.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/043830_slice2_t60.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/065148_slice4_t120.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/065148_slice7_t210.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/065148_slice8_t240.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/065148_slice0_t0.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/065148_slice3_t90.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/065148_slice5_t150.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/065148_slice1_t30.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/065148_slice2_t60.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/065148_slice9_t260.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/065148_slice6_t180.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice3_t90.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice19_t570.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice2_t60.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice8_t240.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice21_t630.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice9_t270.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice24_t693.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice14_t420.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice16_t480.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice23_t690.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice17_t510.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice20_t600.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice7_t210.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice4_t120.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice18_t540.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice1_t30.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice11_t330.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice15_t450.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice13_t390.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice5_t150.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice6_t180.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice22_t660.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice0_t0.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice10_t300.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/032822_slice12_t360.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/071515_slice9_t270.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/071515_slice6_t180.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/071515_slice5_t150.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/071515_slice10_t300.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/071515_slice4_t120.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/071515_slice11_t327.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/071515_slice1_t30.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/071515_slice2_t60.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/071515_slice3_t90.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/071515_slice0_t0.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/071515_slice8_t240.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/071515_slice7_t210.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice24_t720.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice14_t420.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice18_t540.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice3_t90.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice7_t210.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice10_t300.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice16_t480.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice22_t660.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice8_t240.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice25_t740.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice0_t0.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice13_t390.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice11_t330.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice5_t150.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice1_t30.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice4_t120.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice19_t570.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice21_t630.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice23_t690.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice17_t510.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice6_t180.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice2_t60.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice9_t270.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice15_t450.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice20_t600.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/081356_slice12_t360.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice20_t600.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice22_t660.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice9_t270.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice17_t510.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice21_t630.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice8_t240.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice29_t870.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice11_t330.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice6_t180.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice26_t780.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice12_t360.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice1_t30.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice4_t120.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice19_t570.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice10_t300.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice2_t60.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice3_t90.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice27_t810.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice30_t891.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice16_t480.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice23_t690.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice0_t0.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice5_t150.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice25_t750.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice15_t450.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice7_t210.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice28_t840.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice24_t720.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice14_t420.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice13_t390.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/052238_slice18_t540.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/114923_slice0_t0.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/114923_slice3_t90.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/114923_slice5_t150.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/114923_slice4_t120.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/114923_slice7_t210.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/114923_slice2_t60.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/114923_slice1_t30.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/114923_slice6_t180.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice24_t720.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice7_t210.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice9_t270.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice29_t870.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice30_t900.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice15_t450.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice2_t60.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice23_t690.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice27_t810.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice22_t660.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice0_t0.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice26_t780.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice21_t630.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice19_t570.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice10_t300.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice25_t750.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice28_t840.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice5_t150.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice3_t90.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice20_t600.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice6_t180.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice11_t330.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice1_t30.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice4_t120.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice18_t540.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice17_t510.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice16_t480.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice31_t901.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice12_t360.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice14_t420.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice8_t240.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../deepship_raw_16K_30s_00ovl_v2/clips/Tug/082934_slice13_t390.00.pt",
+      "labels": "/m/3"
+    }
+  ]
+}

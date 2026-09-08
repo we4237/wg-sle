@@ -1,0 +1,380 @@
+{
+  "data": [
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/0/21_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/0/21_slice1_t13.71.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/0/51_slice4_t60.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/0/51_slice5_t70.07.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/0/51_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/0/51_slice3_t45.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/0/51_slice1_t15.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/0/51_slice2_t30.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/0/56_slice1_t15.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/0/56_slice0_t0.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/0/56_slice2_t19.00.pt",
+      "labels": "/m/0"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/1/31_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/1/31_slice1_t15.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/1/31_slice3_t34.05.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/1/31_slice2_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/1/93_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/1/93_slice1_t0.27.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/1/96_slice2_t30.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/1/96_slice3_t32.09.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/1/96_slice1_t15.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/1/96_slice0_t0.00.pt",
+      "labels": "/m/1"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/42_slice1_t15.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/42_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/42_slice2_t28.17.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/36_slice2_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/36_slice3_t45.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/36_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/36_slice1_t15.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/36_slice4_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/36_slice5_t71.78.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/41_slice1_t15.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/41_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/41_slice2_t22.91.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/54_slice2_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/54_slice3_t38.05.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/54_slice1_t15.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/54_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/38_slice3_t45.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/38_slice4_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/38_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/38_slice6_t76.92.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/38_slice1_t15.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/38_slice2_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/38_slice5_t75.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/10_slice8_t120.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/10_slice1_t15.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/10_slice9_t124.86.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/10_slice5_t75.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/10_slice6_t90.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/10_slice0_t0.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/10_slice4_t60.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/10_slice2_t30.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/10_slice7_t105.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/2/10_slice3_t45.00.pt",
+      "labels": "/m/2"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/58_slice4_t60.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/58_slice8_t120.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/58_slice2_t30.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/58_slice5_t75.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/58_slice0_t0.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/58_slice10_t150.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/58_slice14_t209.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/58_slice12_t180.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/58_slice1_t15.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/58_slice9_t135.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/58_slice3_t45.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/58_slice11_t165.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/58_slice7_t105.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/58_slice6_t90.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/58_slice13_t195.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/78_slice3_t45.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/78_slice1_t15.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/78_slice6_t90.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/78_slice5_t75.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/78_slice7_t105.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/78_slice4_t60.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/78_slice0_t0.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/78_slice10_t150.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/78_slice9_t135.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/78_slice8_t120.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/78_slice11_t158.10.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/3/78_slice2_t30.00.pt",
+      "labels": "/m/3"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/4/85_slice1_t15.00.pt",
+      "labels": "/m/4"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/4/85_slice4_t55.09.pt",
+      "labels": "/m/4"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/4/85_slice3_t45.00.pt",
+      "labels": "/m/4"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/4/85_slice2_t30.00.pt",
+      "labels": "/m/4"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/4/85_slice0_t0.00.pt",
+      "labels": "/m/4"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/4/82_slice7_t90.00.pt",
+      "labels": "/m/4"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/4/82_slice3_t45.00.pt",
+      "labels": "/m/4"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/4/82_slice5_t75.00.pt",
+      "labels": "/m/4"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/4/82_slice2_t30.00.pt",
+      "labels": "/m/4"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/4/82_slice4_t60.00.pt",
+      "labels": "/m/4"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/4/82_slice6_t90.00.pt",
+      "labels": "/m/4"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/4/82_slice0_t0.00.pt",
+      "labels": "/m/4"
+    },
+    {
+      "pt": "../../shipsear_raw_16K_30s_50ovl/clips/4/82_slice1_t15.00.pt",
+      "labels": "/m/4"
+    }
+  ]
+}
