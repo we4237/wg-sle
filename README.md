@@ -1,6 +1,6 @@
-# WG-SLE data splits
+# WG-SLE
 
-This repository provides the exact record-disjoint DeepShip and ShipsEar data partitions used in the WG-SLE study. It contains partition metadata only; no audio recordings, model weights, or experiment outputs are redistributed.
+This is the official research repository for the WG-SLE study. At present, it provides only the exact record-disjoint DeepShip and ShipsEar data partitions used in the study. Source code will be added in a future release; no audio recordings, model weights, or experiment outputs are redistributed here.
 
 ## Contents
 
