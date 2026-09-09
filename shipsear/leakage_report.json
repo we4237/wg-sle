@@ -1,45 +1,14 @@
 {
-  "overlaps": {
-    "train_valid": [],
-    "train_eval": [],
-    "valid_eval": []
+  "task": "task3",
+  "protocol_partitions": [
+    "train",
+    "eval"
+  ],
+  "train_eval_record_overlap": [],
+  "train_eval_clip_overlap": [],
+  "validation_alias": {
+    "target": "target_eval_data.json",
+    "identical": true
   },
-  "duplicate_paths": {
-    "train_valid": [],
-    "train_eval": [],
-    "valid_eval": []
-  },
-  "clip_counts": {
-    "train": 441,
-    "valid": 94,
-    "eval": 175
-  },
-  "record_counts": {
-    "train": 54,
-    "valid": 16,
-    "eval": 16
-  },
-  "class_counts": {
-    "train": {
-      "/m/0": 61,
-      "/m/1": 88,
-      "/m/2": 151,
-      "/m/3": 97,
-      "/m/4": 44
-    },
-    "valid": {
-      "/m/0": 11,
-      "/m/1": 10,
-      "/m/2": 33,
-      "/m/3": 27,
-      "/m/4": 13
-    },
-    "eval": {
-      "/m/0": 21,
-      "/m/1": 20,
-      "/m/2": 85,
-      "/m/3": 33,
-      "/m/4": 16
-    }
-  }
+  "status": "PASS"
 }
